@@ -91,7 +91,8 @@
        2. ChroPath – плагин Google Chrome, для построения локаторов
        3. https://tempmail.plus - сервис для создания одноразового почтового ящика
        4. https://text.ru/seo - для анализа текста (подсчета символов, слов, …)
-       5. http://www.unit-conversion.info/texttools/random-string-generator/ - для генерирования текста определенной             длины из определенных символов
+       5. http://www.unit-conversion.info/texttools/random-string-generator/ - для генерирования текста определенной
+           длины из определенных символов
 
 ### 8. По ссылкам на Google диске находятся:
        1. Набор тест-кейсов

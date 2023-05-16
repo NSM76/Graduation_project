@@ -71,7 +71,7 @@ Rostelecom
         1.	pytest -v --driver Chrome --driver-path ~/chromedriver_win32 tests
         или
         2.	python -m pytest -v --driver Chrome --driver-path ~/chromedriver_win32 tests
-        где chromedriver_win32 – это скачанный и разархивированный драйвер с шага 2 
+        где chromedriver_win32 – это скачанный и разархивированный драйвер с пункта ii 
 
 6.	Описано 8 багов.
 

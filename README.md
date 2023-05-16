@@ -82,7 +82,7 @@ Rostelecom
     4.	https://text.ru/seo - для анализа текста (подсчета символов, слов, …)
     5.	http://www.unit-conversion.info/texttools/random-string-generator/ - для генерирования текста определенной             длины из определенных символов
 
-8.	По ссылкам на Google диске находятся:
+8.	По ссылкам на Google диске (https://drive.google.com/drive/folders/1wKqnLvgNVtM_iMqDvgW0_ZrEiSqiqr1E?usp=share_link) находятся:
     1.	Набор тест-кейсов
     2.	Баг-репорты
     3.	Скриншоты

@@ -13,7 +13,7 @@
          2.	Онлайм Web ( https://my.rt.ru/ ),
          3.	Старт Web ( https://start.rt.ru/ ), 
          4.	Умный дом Web ( https://lk.smarthome.rt.ru/ ), 
-         5.	 Ключ Web ( https://key.rt.ru/ )
+         5.	Ключ Web ( https://key.rt.ru/ )
    
 Тест-кейсы разрабатывались на основании требований заказчика - “[Требования_SSO_для_тестирования_last.doc](https://docs.google.com/document/d/1fOjYGOBZP10ssxL4jrEq3bG2wLUD_IKq/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)" и произведена их автоматизация для выполнения задания - Модуль 32. Дополнительные возможности Selenium. 12 Дипломный проект: реальный кейс компании «Ростелеком Информационные Технологии» 
 
@@ -94,7 +94,7 @@
        5. http://www.unit-conversion.info/texttools/random-string-generator/ - для генерирования текста определенной
            длины из определенных символов
 
-### 8. На Google диске расположены:
+### 8. На Google [диске](https://drive.google.com/drive/folders/1wKqnLvgNVtM_iMqDvgW0_ZrEiSqiqr1E?usp=sharing) расположены:
        1. Набор тест-кейсов
        2. Баг-репорты
        3. Скриншоты

@@ -95,7 +95,7 @@
            длины из определенных символов
 
 ### 8. На Google [диске](https://drive.google.com/drive/folders/1wKqnLvgNVtM_iMqDvgW0_ZrEiSqiqr1E?usp=sharing) расположены:
-       1. Набор [тест-кейсов](https://docs.google.com/spreadsheets/d/1jtPFhUiteMamwrttJVYrLK5jQ92eRWFx/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)
-       2. [Баг-репорты](https://docs.google.com/spreadsheets/d/106ptJQZHuPQlRUGS6mX7FrmvPCXlSnXE/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)
-       3. [Скриншоты](https://drive.google.com/drive/folders/1in4AwvRRszS06BwZdlAH22ngTkhhRPf3?usp=sharing)
+       1. Набор тест-кейсов
+       2. Баг-репорты
+       3. Скриншоты
 

@@ -20,7 +20,7 @@
 ### 1. Проект разделен на блоки «Регистрация» и «Авторизация».            
            Каждый блок разделен на модули по видам тестируемого продукта Ростелеком.
 
-### 2. Проект содержит 89 тест-кейсов
+### 2. Проект содержит 89 [тест-кейсов](https://docs.google.com/spreadsheets/d/1jtPFhUiteMamwrttJVYrLK5jQ92eRWFx/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)
 
 ### 3. При составлении тест-кейсов применены:                                                                                                                                                                                            
       1. Метод «черного ящика» - применялся при составлении всех тест-кейсов.                            
@@ -95,7 +95,7 @@
            длины из определенных символов
 
 ### 8. На Google [диске](https://drive.google.com/drive/folders/1wKqnLvgNVtM_iMqDvgW0_ZrEiSqiqr1E?usp=sharing) расположены:
-       1. Набор тест-кейсов
-       2. Баг-репорты
-       3. Скриншоты
+       1. Набор [тест-кейсов](https://docs.google.com/spreadsheets/d/1jtPFhUiteMamwrttJVYrLK5jQ92eRWFx/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)
+       2. [Баг-репорты](https://docs.google.com/spreadsheets/d/106ptJQZHuPQlRUGS6mX7FrmvPCXlSnXE/edit?usp=sharing&ouid=114969839533758832510&rtpof=true&sd=true)
+       3. [Скриншоты](https://drive.google.com/drive/folders/1in4AwvRRszS06BwZdlAH22ngTkhhRPf3?usp=sharing)
 
